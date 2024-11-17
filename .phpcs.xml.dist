@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<ruleset name="Kla Tivie Slides API">
+    <description>WordPress Coding Standards for Kla Tivie Slides API plugin</description>
+    <rule ref="WordPress"/>
+    <arg name="basepath" value="./"/>
+    <file>./</file>
+    <exclude-pattern>*/vendor/*</exclude-pattern>
+</ruleset>
